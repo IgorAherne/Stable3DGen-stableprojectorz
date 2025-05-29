@@ -1,6 +1,6 @@
 For integration with StableProjectorz, a free AI-texturing tool https://stableprojectorz.com
 
-I've added tex unwrap into it, and mesh simplification, to reduce number of polys.
+I've added texture unwrap into it, and mesh simplification, to reduce number of polys.
 
 you can launch it with Python 3.11 and by installing things inside `install.py` script
 Don't install via original StableGen instructions.
